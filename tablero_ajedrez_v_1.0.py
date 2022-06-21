@@ -4,7 +4,7 @@ print("Programa para calcular el movimiento de la pieza alfil en el tablero de a
 columnas=8
 
 
-# se crea la matriz de tamaño 8x8 definido en la variablcolumnas
+# se crea la matriz de tamaño 8x8 definido en la variable columnas
 # usando la sintaxis de compresion de listas
 
 v=[[0]*columnas for _ in range(columnas)]
